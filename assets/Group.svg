@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_6" data-name="Group 6" transform="translate(140 4255)">
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(-140 -4255)" stroke="#000" stroke-width="1">
+      <rect width="48" height="48" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="4.5" fill="none"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-140 -4255)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="48" height="48" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2">
+        <path id="Path_2" data-name="Path 2" d="M20.8,24,31.4,13.4a1.9,1.9,0,0,0-.2-3,2.1,2.1,0,0,0-2.7.2l-11.9,12a1.9,1.9,0,0,0,0,2.8l11.9,12a2.1,2.1,0,0,0,2.7.2,1.9,1.9,0,0,0,.2-3Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
